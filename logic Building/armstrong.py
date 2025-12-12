@@ -10,3 +10,4 @@ if sum==num:
     print(f"{num} is armstrong number")
 else:
     print(f"{num} is not armstrong number")
+
