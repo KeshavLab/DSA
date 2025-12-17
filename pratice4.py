@@ -1,4 +1,4 @@
-# count digits
+# sum of digit digits
 
 n=int(input("enter a number :"))
 
